@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hashing-Bang_bam-bai2", "Ha
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary_tree_cay_nhi_phan_bai3", "Binary_tree_cay_nhi_phan_bai3\Binary_tree_cay_nhi_phan_bai3.vcxproj", "{2D6D7389-3A00-4F95-A9BB-61917CF9F5FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVL_tree_bai_4", "AVL_tree_bai_4\AVL_tree_bai_4.vcxproj", "{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2D6D7389-3A00-4F95-A9BB-61917CF9F5FD}.Release|x64.Build.0 = Release|x64
 		{2D6D7389-3A00-4F95-A9BB-61917CF9F5FD}.Release|x86.ActiveCfg = Release|Win32
 		{2D6D7389-3A00-4F95-A9BB-61917CF9F5FD}.Release|x86.Build.0 = Release|Win32
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Debug|x64.ActiveCfg = Debug|x64
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Debug|x64.Build.0 = Debug|x64
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Debug|x86.Build.0 = Debug|Win32
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Release|x64.ActiveCfg = Release|x64
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Release|x64.Build.0 = Release|x64
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Release|x86.ActiveCfg = Release|Win32
+		{CCF41B6D-49F1-4D2C-8FE4-A905CAAED80E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
