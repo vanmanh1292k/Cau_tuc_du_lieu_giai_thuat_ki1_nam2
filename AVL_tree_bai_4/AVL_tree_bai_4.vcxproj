@@ -141,6 +141,11 @@
   <ItemGroup>
     <ClCompile Include="AVL_tree_bai_4.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="deleteKey.txt" />
+    <Text Include="inputTree.txt" />
+    <Text Include="searchKey.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

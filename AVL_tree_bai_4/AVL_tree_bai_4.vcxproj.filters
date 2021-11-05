@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="inputTree.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+    <Text Include="deleteKey.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+    <Text Include="searchKey.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

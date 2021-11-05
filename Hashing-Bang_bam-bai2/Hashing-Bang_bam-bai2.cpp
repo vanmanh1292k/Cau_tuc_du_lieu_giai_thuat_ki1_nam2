@@ -59,7 +59,7 @@ public:
 
 	void readFile() {
 		ifstream fileIn;
-		fileIn.open("C:/Users/taoth/test.txt");
+		fileIn.open("C:/Users/taoth/testCIAOD2.txt");
 
 		while (fileIn.eof() == false) {
 			Product prd;
@@ -104,8 +104,8 @@ public:
 		}
 		nf.close();
 		fileIn.close();
-		remove("C:/Users/taoth/test.txt");
-		rename("C:/Users/taoth/temp.txt", "C:/Users/taoth/test.txt");
+		remove("C:/Users/taoth/testCIAOD2.txt");
+		rename("C:/Users/taoth/temp.txt", "C:/Users/taoth/testCIAOD2.txt");
 
 	}
 
@@ -152,7 +152,7 @@ int main()
 {
 	Product prd[100];
 	int n;
-	ifstream in("C:/Users/taoth/test.txt", ios::in);
+	ifstream in("C:/Users/taoth/testCIAOD2.txt", ios::in);
 	if (!in) {
 		cerr << "File can't be opened! " << endl;
 		system("PAUSE");
